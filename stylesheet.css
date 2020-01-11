@@ -1,0 +1,31 @@
+/*
+Name:          Sadžida Halvadžić
+Course:        CS412 Web Application Development
+Assigment:     Hijab shop
+Due Date:      11.01.2020.
+Purpose:       The purpose of this project is to make page for hijab shop
+*/
+
+body {
+  background-color : #F8F8FF;
+      }
+
+img.card-img-top {
+  resize : both;
+  overflow : auto;
+}
+
+p.card-text {
+  font-size : 150%;
+}
+
+img.gcard-img-top {
+  width : 300;
+  height : 500;
+}
+
+form {
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-bottom: 35px;
+}
